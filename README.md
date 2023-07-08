@@ -1,2 +1,18 @@
-# -codejourney-unicesumar
-CodeJourney-Unicesumar é um repositório dedicado a armazenar os trabalhos e projetos de programação realizados durante minha jornada acadêmica na Unicesumar. 
+
+
+<img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" align="right" width="250">
+
+# Codejourney-Unicesumar
+
+Bem-vindo(a)s! Repositório dedicado a apresentar os trabalhos de programação realizados durante minha jornada acadêmica na Unicesumar. Explore e acompanhe minha jornada de aprendizado e desenvolvimento de habilidades de programação ao longo do tempo. Sinta-se à vontade para explorar, aprender e se inspirar com os projetos contidos neste repositório!
+
+<h3>📚 Tarefas destaques</h3>
+
+* [DNA Manipulation - Algoritmo utilizando os conceitos de FILA DINÂMICA e de PILHA DINÂMICA em linguagem C.]() ✔
+
+#
+
+<h3>📃 DIREITOS DE USO</h3>
+
+É plenamente permitido fazer uso deste material com o intuito de aprimorar seus conhecimentos. 
+
