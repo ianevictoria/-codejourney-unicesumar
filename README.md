@@ -8,7 +8,7 @@ Bem-vindo(a)s! Repositório dedicado a apresentar os trabalhos de programação 
 
 <h3>📚 Tarefas destaques</h3>
 
-* [DNA Manipulation - Algoritmo utilizando os conceitos de FILA DINÂMICA e de PILHA DINÂMICA em linguagem C.]() ✔
+* [DNA Manipulation - Algoritmo utilizando os conceitos de FILA DINÂMICA e de PILHA DINÂMICA em linguagem C.](https://github.com/ianevictoria/codejourney-engsoft-unicesumar/tree/main/DNA-Manipulation) ✔
 
 #
 
