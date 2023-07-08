@@ -1,4 +1,4 @@
-Passo a passo - DNA- Manipulation em C usando o GCC no VSCode
+<h2>Passo a passo - DNA- Manipulation em C usando o GCC no VSCode</h2>
 
 1- Certifique-se de ter um ambiente de desenvolvimento C configurado no seu sistema.
 
