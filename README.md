@@ -4,7 +4,7 @@
 
 # Codejourney-Unicesumar
 
-Bem-vindo(a)s! Repositório dedicado a apresentar os trabalhos de programação realizados durante minha jornada acadêmica na Unicesumar. Explore e acompanhe minha jornada de aprendizado e desenvolvimento de habilidades de programação ao longo do tempo. Sinta-se à vontade para explorar, aprender e se inspirar com os projetos contidos neste repositório!
+Bem-vindo(a)s! Repositório dedicado a apresentar os trabalhos de programação realizados durante minha jornada acadêmica no curso de Engenharia de Software na Unicesumar. Explore e acompanhe minha jornada de aprendizado e desenvolvimento de habilidades de programação ao longo do tempo. Sinta-se à vontade para explorar, aprender e se inspirar com os projetos contidos neste repositório!
 
 <h3>📚 Tarefas destaques</h3>
 
